@@ -29,6 +29,12 @@ Decided on start.gg for larger tournement live data and possible online match da
 Notes:
 Created a jupyter notebook to use pandas for exploritory analysis.
 In process of creating data frame. 
+Desired Features to be added to dataframe:
+- Number of wins
+- Number of losses
+- Avg margin of victory
+- Win percentage
+- Character
 
 5.Include mockups of a machine learning model and a database.
 Notes:
